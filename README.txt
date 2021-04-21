@@ -6,7 +6,9 @@ any electron degeneracy.
 
 If you use these tables, please cite the following paper:
 
-Carenza Lucente "Revisiting axion-electron bremsstrahlung emission rates in astrophysical environments"
+P.~Carenza and G.~Lucente,
+``Revisiting axion-electron bremsstrahlung emission rates in astrophysical environments,''
+[arXiv:2104.09524 [hep-ph]].
 
 ********************************************
 Extract the 10 tables from the rar archives.
@@ -44,7 +46,9 @@ A complete table obtained by merging the 10 tables can be obtained upon request.
 **********************************************************************
 Bibliography:
 
-[1] Carenza Lucente "Revisiting axion-electron bremsstrahlung emission rates in astrophysical environments"
+[1] P.~Carenza and G.~Lucente,
+``Revisiting axion-electron bremsstrahlung emission rates in astrophysical environments,''
+[arXiv:2104.09524 [hep-ph]].
 [2] https://wwwafs.portici.enea.it/software/libnag/nagdoc_fl21/pdf/D01/d01gdf.pdf
 
 Pierluca Carenza and Giuseppe Lucente
